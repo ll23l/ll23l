@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi there, I'm Khalid ! 👋 </h1>
+<h3>I'm a Front-End developer / web designer from Saudi Arabia</h3>
 
-<!--
-**ll23l/ll23l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills
+:white_check_mark: Frontend: HTML • CSS • Javascript • Bootstrap • React ]S
 
-Here are some ideas to get you started:
+:white_check_mark: Web Design: Adobe XD • Photoshop • Illustrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other Skills: SASS • LESS • BEM • Git
+
+I'm currently learning Vue JS
+
+## How to reach me
+📫 Email: khaledabuaali@gmail.com
+
+## Social Media
+<a href="https://www.behance.net/khaledabuaali" rel="nofollow"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/khalid-abuaali/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
